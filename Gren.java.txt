@@ -1,0 +1,7 @@
+public clas Gren{
+public static void main(String[} args){
+For (int i = 5; i <10; i++){
+Systen.out.println("Gren! " +i);
+}
+}
+}
